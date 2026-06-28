@@ -53,26 +53,4 @@ pip install -r requirements.txt
 python painel_busca.py
 ```
 
----
 
-## Como enviar para o GitHub
-
-```bash
-git init
-
-git add .
-
-git commit -m "Adiciona painel de busca"
-
-git remote add origin https://github.com/Frost230/busca.git
-
-git branch -M main
-
-git push -u origin main
-```
-
----
-
-```text
-Power by Frost // Society
-```
